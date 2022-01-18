@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhettar
 - 👀 I’m interested in Distributed systems, DevOps, Go.
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning GCP
 - 💞️ I’m looking to collaborate on DevOps tools
 - 📫 How to reach me ayache@cirta.dev
 
